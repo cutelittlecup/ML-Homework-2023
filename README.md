@@ -3,4 +3,4 @@
 
 TASK 1. A/B Test: пример оценки A/B теста.
 
-Task 2. Credit Card Fraud Detection: классификация мошеннических операций.
+TASK 2. Credit Card Fraud Detection: классификация мошеннических операций.
